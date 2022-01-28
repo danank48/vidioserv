@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMn1TBP/indosiar.png"group-title="Danank48 240p",INDOSIAR 240p
+https://etslive-2-vidio-com.akamaized.net/exp=1643369320~acl=/hls-p/ingest_205_*/*~hmac=7dc28813cb527fe4e496d3b618a9b14903ff7cbc7f3c3aa8746753340d175bf7/hls-p/ingest_205_240p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbvKXfL/sctv.png"group-title="Danank48 240p",SCTV 240p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380031~acl=/hls-p/ingest_204_*/*~hmac=3dab14a54e8d959199a88ce72cdee1f0f8b94defe0baaae2b795112f22f46825/hls-p/ingest_204_240p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNFMwm7R/transtv.png"group-title="Danank48 240p",TRANS TV 240p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380388~acl=/hls-p/ingest_733_*/*~hmac=4e4b3f2958fecf94aa109123a68bb98377d085ba37079994bc6a92fd4f74a9a1/hls-p/ingest_733_240p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXktk9KH/trans7.png"group-title="Danank48 240p",TRANS7 240p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380352~acl=/hls-p/ingest_734_*/*~hmac=3cc5b5a25b0ffff7d5cb017e315ce38062ac298a4e6db03e35fba5c757733ccb/hls-p/ingest_734_240p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMn1TBP/indosiar.png"group-title="Danank48 360p",INDOSIAR 360p
+https://etslive-2-vidio-com.akamaized.net/exp=1643369320~acl=/hls-p/ingest_205_*/*~hmac=7dc28813cb527fe4e496d3b618a9b14903ff7cbc7f3c3aa8746753340d175bf7/hls-p/ingest_205_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbvKXfL/sctv.png"group-title="Danank48 360p",SCTV 360p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380031~acl=/hls-p/ingest_204_*/*~hmac=3dab14a54e8d959199a88ce72cdee1f0f8b94defe0baaae2b795112f22f46825/hls-p/ingest_204_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNFMwm7R/transtv.png"group-title="Danank48 360p",TRANS TV 360p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380388~acl=/hls-p/ingest_733_*/*~hmac=4e4b3f2958fecf94aa109123a68bb98377d085ba37079994bc6a92fd4f74a9a1/hls-p/ingest_733_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXktk9KH/trans7.png"group-title="Danank48 360p",TRANS7 360p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380352~acl=/hls-p/ingest_734_*/*~hmac=3cc5b5a25b0ffff7d5cb017e315ce38062ac298a4e6db03e35fba5c757733ccb/hls-p/ingest_734_360p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMn1TBP/indosiar.png"group-title="Danank48 480p",INDOSIAR 480p
+https://etslive-2-vidio-com.akamaized.net/exp=1643369320~acl=/hls-p/ingest_205_*/*~hmac=7dc28813cb527fe4e496d3b618a9b14903ff7cbc7f3c3aa8746753340d175bf7/hls-p/ingest_205_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbvKXfL/sctv.png"group-title="Danank48 480p",SCTV 480p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380031~acl=/hls-p/ingest_204_*/*~hmac=3dab14a54e8d959199a88ce72cdee1f0f8b94defe0baaae2b795112f22f46825/hls-p/ingest_204_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNFMwm7R/transtv.png"group-title="Danank48 480p",TRANS TV 480p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380388~acl=/hls-p/ingest_733_*/*~hmac=4e4b3f2958fecf94aa109123a68bb98377d085ba37079994bc6a92fd4f74a9a1/hls-p/ingest_733_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXktk9KH/trans7.png"group-title="Danank48 480p",TRANS7 480p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380352~acl=/hls-p/ingest_734_*/*~hmac=3cc5b5a25b0ffff7d5cb017e315ce38062ac298a4e6db03e35fba5c757733ccb/hls-p/ingest_734_480p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QMn1TBP/indosiar.png"group-title="Danank48 720p",INDOSIAR 720p
+https://etslive-2-vidio-com.akamaized.net/exp=1643369320~acl=/hls-p/ingest_205_*/*~hmac=7dc28813cb527fe4e496d3b618a9b14903ff7cbc7f3c3aa8746753340d175bf7/hls-p/ingest_205_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjbvKXfL/sctv.png"group-title="Danank48 720p",SCTV 720p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380031~acl=/hls-p/ingest_204_*/*~hmac=3dab14a54e8d959199a88ce72cdee1f0f8b94defe0baaae2b795112f22f46825/hls-p/ingest_204_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XNFMwm7R/transtv.png"group-title="Danank48 720p",TRANS TV 720p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380388~acl=/hls-p/ingest_733_*/*~hmac=4e4b3f2958fecf94aa109123a68bb98377d085ba37079994bc6a92fd4f74a9a1/hls-p/ingest_733_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXktk9KH/trans7.png"group-title="Danank48 720p",TRANS7 720p
+https://etslive-2-vidio-com.akamaized.net/exp=1643380352~acl=/hls-p/ingest_734_*/*~hmac=3cc5b5a25b0ffff7d5cb017e315ce38062ac298a4e6db03e35fba5c757733ccb/hls-p/ingest_734_720p/index.m3u8
